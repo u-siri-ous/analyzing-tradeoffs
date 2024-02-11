@@ -5,5 +5,20 @@ To see:
 - the entire procedure go to [Trade Off Analyzing with Plateau](TradeOff_Analyzing_withPlateau.ipynb)
 - more information about the technque go [to the documentation](analyzing_tradeoffs.pdf)
 
+------
+
+### Folder descriptions
+
+#### Experimental
+
+Previous trainings and trials before _TradeOff Analyzing with Plateau_, which include various versions with different hyperparameters and schedulers.
+
+#### Code
+
+Python snippets taken from the notebook
+
+#### Models Plot
+
+Pictures used in the paper and in this README.
 
 <img src="Models Plot/model.jpg" alt="Example Image" width="900" height="500">
