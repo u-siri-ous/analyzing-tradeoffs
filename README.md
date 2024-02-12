@@ -3,7 +3,7 @@ The program is designed to analyze pictures of Pokémon TCG 1st generation cards
 
 To see:
 - the entire procedure go to [Trade Off Analyzing with Plateau](TradeOff_Analyzing_withPlateau.ipynb)
-- more information about the technque go [to the documentation](analyzing_tradeoffs.pdf)
+- more information about the technque go [to the documentation](analyzing_tradeoffs_v1.pdf)
 
 ------
 
