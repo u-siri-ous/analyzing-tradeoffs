@@ -2,8 +2,8 @@
 The program is designed to analyze pictures of Pokémon TCG 1st generation cards. It aims to analyze the tradeoff between combinations of activation functions and optimizers, emphasizing the importance of well-performing variants in a pure, CNN-based image classification task. 
 
 To see:
-- the entire procedure go to [Trade Off Analyzing with Plateau](TradeOff_Analyzing_withPlateau.ipynb)
-- more information about the technque go [to the documentation](analyzing_tradeoffs_v1.pdf)
+- the entire procedure go to [Trade Off Analyzing with Plateau](TradeOff_Analyzing_withPlateau.ipynb) notebook
+- more information about the used techniques go [to the documentation](analyzing_tradeoffs_v1.pdf)
 
 ------
 
